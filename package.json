@@ -1,0 +1,25 @@
+{
+    "name": "ceu",
+    "displayName": "Céu",
+    "description": "Syntax highlighting for Céu lang",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "ceu",
+            "aliases": ["Céu", "ceu"],
+            "extensions": [".ceu"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ceu",
+            "scopeName": "source.ceu",
+            "path": "./syntaxes/ceu.tmLanguage.json"
+        }]
+    }
+}
