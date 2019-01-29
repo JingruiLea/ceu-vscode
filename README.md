@@ -17,8 +17,6 @@ Move the content of this repository to ```~/.vscode/extensions/ceu``` folder.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 0.1
 
-Initial release of the syntax highlight.
+Initial release
