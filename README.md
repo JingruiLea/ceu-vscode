@@ -9,7 +9,9 @@ Move the content of this repository to ```~/.vscode/extensions/ceu``` folder.
 
 ## Known Issues
 
-[Céu nested comments](https://ceu-lang.github.io/ceu/out/manual/v0.30/lexical_rules/comments/) are not fully supported. This language extension will highlight up to three nested comment blocks. We're looking for a way to support highlight for this feature.
+- [Céu nested comments](https://ceu-lang.github.io/ceu/out/manual/v0.30/lexical_rules/comments/) are not fully supported. This language extension will highlight up to three nested comment blocks. We're looking for a way to support highlight for this feature.
+
+- No highlight for C nested code ([check C integration at Céu documentation](https://ceu-lang.github.io/ceu/out/manual/v0.30/statements/c_integration/)).
 
 -----------------------------------------------------------------------------------------------------------
 
