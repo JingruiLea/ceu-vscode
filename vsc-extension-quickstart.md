@@ -25,3 +25,24 @@ https://code.visualstudio.com/docs
 ## Install your extension
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+
+## Start a new Language extensions in VS Code
+Dependencies
+- Node.js
+- Git
+
+```
+sudo npm install -g yo generator-code
+yo code  //New Language
+```
+
+## Recommended links
+- https://www.apeth.com/nonblog/stories/textmatebundle.html
+- https://macromates.com/manual/en/language_grammars
+- https://macromates.com/manual/en/scope_selectors
+- https://github.com/stedolan/jq/wiki/Docs-for-Oniguruma-Regular-Expressions-(RE.txt)
+- https://rubular.com/
+- http://json2plist.sinaapp.com/
+- https://regexr.com/
+- https://stackoverflow.com/questions/22065194/positive-lookahead-doesnt-stop-at-first-occurence
+- https://stackoverflow.com/questions/54409644/text-mate-lookbehind-after-nonfixed-character-length
