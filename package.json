@@ -3,6 +3,7 @@
     "displayName": "Céu",
     "description": "Syntax highlighting for Céu lang",
     "version": "0.0.1",
+    "publisher": "Céu-lang",
     "engines": {
         "vscode": "^1.30.0"
     },
