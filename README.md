@@ -5,7 +5,7 @@ This extension adds syntax highlighting suport for the [Céu language](http://ce
 ![syntax highlighting](image.png)
 
 ## Instalation
-Move the content of this repository to ```~/.vscode/extensions/ceu``` folder.
+On Linux or macOS, move this repository to ```~/.vscode/extensions``` folder. On Windows, move to ```%USERPROFILE%\.vscode\extensions```.
 
 ## Known Issues
 
