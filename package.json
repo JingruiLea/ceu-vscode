@@ -2,9 +2,21 @@
     "name": "ceu",
     "displayName": "Céu",
     "description": "Syntax highlighting for Céu lang",
-    "icon": "https://github.com/AnnyCaroline/ceu-vscode/blob/master/syntaxes/star_256.png?raw=true",
+    "homepage": "http://ceu-lang.org/",
+    "icon": "icons/star_128.png",
     "version": "0.0.1",
     "publisher": "Céu-lang",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AnnyCaroline/ceu-vscode"
+    },
+    "maintainers": [
+        {
+            "email": "annycarolinegnr@gmail.com",
+            "name": "Anny Chagas",
+            "url": "https://github.com/AnnyCaroline/"
+        }
+    ],    
     "engines": {
         "vscode": "^1.30.0"
     },
