@@ -2,6 +2,7 @@
     "name": "ceu",
     "displayName": "Céu",
     "description": "Syntax highlighting for Céu lang",
+    "icon": "fileicons/star_256.png",
     "version": "0.0.1",
     "publisher": "Céu-lang",
     "engines": {
