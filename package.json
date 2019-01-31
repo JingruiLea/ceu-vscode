@@ -2,7 +2,7 @@
     "name": "ceu",
     "displayName": "Céu",
     "description": "Syntax highlighting for Céu lang",
-    "icon": "fileicons/star_256.png",
+    "icon": "https://github.com/AnnyCaroline/ceu-vscode/blob/master/syntaxes/star_256.png?raw=true",
     "version": "0.0.1",
     "publisher": "Céu-lang",
     "engines": {
