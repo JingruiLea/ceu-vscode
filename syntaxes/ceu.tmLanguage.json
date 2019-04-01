@@ -94,7 +94,7 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.ceu",
-				"match": "\\b(const|do|out|end|finaliza|until|if|then|else|else/if|loop|continue|escape|code|var|event|output|input|val|data|par/or|par/and|par|with|in|outer|pause|as|break|native|pre|pos|kill)\\b"
+				"match": "\\b(const|do|out|end|finaliza|until|if|then|else|else/if|loop|continue|escape|code|var|event|output|input|val|data|par/or|par/and|par|with|in|outer|pause|as|break|native|pre|plain|pos|kill)\\b"
 			},{
 				"name": "keyword.control.directive.include.ceu",
 				"match": "#include"
