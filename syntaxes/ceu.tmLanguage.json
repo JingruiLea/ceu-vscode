@@ -66,8 +66,8 @@
 		},
 		"block-comments": {
 			"name": "comment.block.ceu",
-			"begin": "/\\*[^\\*]",
-			"end": "[^\\*]\\*/",
+			"begin": "/\\*[^\\*]?",
+			"end": "[^\\*]?\\*/",
 			"patterns": [{
 				"name": "constant.character.escape.ceu",
 				"match": "\\."
